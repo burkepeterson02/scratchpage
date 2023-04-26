@@ -1,0 +1,6 @@
+.common{font-family: 'Courier New', Courier, monospace; text-align: center;}
+img{display: block;margin-left: auto;margin-right: auto; width: 25%;}
+.fancy{color: white; font-weight: bolder;}
+ul{list-style-position: inside;}
+ol{list-style-position: inside;}
+.link{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
